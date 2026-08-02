@@ -1,0 +1,6 @@
+{
+  "appId": "com.dir.app",
+  "appName": "Daily Installation Reminder",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
